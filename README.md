@@ -4,6 +4,6 @@ Script powersploit 3.0.0 versiyonudur.
 # Kullanımı:
 powershell -ep bypass
 . .\Invoke-DllInjection.ps1
-Invoke-DllInjection
-ProcessID: <id> // bizden enjekte edeceğimiz process id değerini istemekte.
-Dll: dll dosyamızın yolu.
+  Invoke-DllInjection
+      ProcessID: <id> // bizden enjekte edeceğimiz process id değerini istemekte.
+      Dll: dll dosyamızın yolu.
